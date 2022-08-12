@@ -11,7 +11,8 @@ Next, we run the client.py script on the victim and/or client machine. (You can 
 
 After you run the client.py script, you should see the below on the listening host:
 
-![image](https://user-images.githubusercontent.com/101802030/184320149-e2cb0a3e-beb2-49ba-b9ab-785e4152e9d2.png)
+![image](https://user-images.githubusercontent.com/101802030/184321254-d77c0200-6f34-4a5a-b9c2-5878e0de6339.png)
+
 
 
 There is so much more that can be done with this, so do your own research and have fun!!!
