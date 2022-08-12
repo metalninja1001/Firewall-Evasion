@@ -23,7 +23,7 @@ print(f"Listening as {SERVER_HOST}:{SERVER_PORT} ...")
 # accept any connections attempted
 
 client_socket, client_address = s.accept()
-print(f"{client_address[0]}:{client_address[1]} Connecte!")
+print(f"{client_address[0]}:{client_address[1]} Connected!")
 
 # receiving the current working directory of the client
 
